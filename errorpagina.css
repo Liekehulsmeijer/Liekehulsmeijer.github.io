@@ -1,0 +1,14 @@
+body {
+    background-color: rgb(233, 229, 229);
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#blokerror {
+    flex: 1;
+}
+#blokmain1 {
+    font-size: 14px;
+    margin: 20px;
+    text-align: center;
+    height: 450px;
+}
